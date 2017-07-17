@@ -1,0 +1,56 @@
+body {
+  margin:0;
+}
+
+.top {
+  background-color: purple;
+  width: 100vw;
+  height: 125px;
+}
+
+.container {
+  background-color: red;
+  width: 70vw;
+  height: 2000px;
+  margin: auto;
+  padding:8% 10% 8% 10%;
+}
+
+.inside-container-1 {
+  background-color: blue;
+  width: 95%;
+  height: 550px;
+  padding: 40px;
+  margin-bottom: 5%;
+
+}
+
+.inside-container-2 {
+  background-color: blue;
+  width: 95%;
+  height: 550px;
+  padding:40px;
+}
+
+.inside-container-3 {
+  background-color: blue;
+  width: 95%;
+  height: 550px;
+  margin-top: 5%;
+  padding:40px;
+}
+
+.small-window {
+  background-color: yellow;
+  width:300px;
+  height:300px;
+  float: left;
+  position: relative;
+}
+
+.large-window {
+  background-color: green;
+  width:780px;
+  height:500px;
+  float: right;
+}

@@ -1,0 +1,35 @@
+Feynman Writing Prompts
+
+	Arrays: 
+
+		An Array is a place to store related items (Student test scores, grocery items, etc). Instead of using multiple variables you can use one array to hold the values.
+
+		Example:
+
+			var cars = ["Saab", "Volvo", "BMW"];
+			
+	Objects:
+
+		In real life, a car is an example of an Object. It has 'properties' like weight and color, and 'methods' like start and stop. All cars have the same 'properties', but the property values differ from car to car. All cars also have the same 'methods', but they are performed at different times. The 'property' of an object is name  for the value (firstName, lastName,etc). 
+
+		Example:
+
+			var car = {
+			type:"Fiat",
+			model:"500",
+			color:"white"
+			};
+
+	Methods:
+
+		'Methods' are the action that can be performed on objects (function(){return this.firstName + " " + this.lastName;}, etc). A JavaScript method is a property containing a function definition.
+
+		Example:
+
+			Create Method:
+
+				methodName : function() { code lines }
+
+			Access object method:
+
+				objectName.methodName()

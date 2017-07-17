@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+  background-color: yellow;
+}
+
+.div1 {
+  height: 15%;
+  width: 100%;
+  background-color: red;
+}
+
+.div2 {
+  margin-left: 15%;
+  height: 1500px;
+  width: 70%;
+  background-color: blue;
+}
+
+.div3 {
+  margin-left: 15%;
+  height: 10%;
+  width: 70%;
+  background-color: green;
+}

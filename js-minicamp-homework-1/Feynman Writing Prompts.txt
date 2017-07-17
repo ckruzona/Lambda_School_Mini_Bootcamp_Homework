@@ -1,0 +1,24 @@
+Feynman Writing Prompts
+
+	Variables:
+
+		A variable is a placeholder for a value. Since those values vary, or change, depending on the situation, it is represented by a symbol, or a name, to use as a placeholder for that value.
+
+		Variables are represented by the abreviation 'var' and setup like so: 
+		var (variable name) = (value);
+
+	Strings:
+
+		A string is a type of value or a data type. It is made up of characters like in sentences. They are use for communicating information from the computer to the user but less useful the other way around. Strings are always encased by single or double quotes.
+
+	Functions (arguments, return):
+
+		Think of a function as a set of instructions. When you give the function an input value, it goes through those set of instructions and determines what the output will be based on the rules you have applied. 
+
+	if Statements:
+
+		An if statement is a conditional statement used in functions to apply rules. For example you could say, if Bob knows Jane then say hello. If not, then move along. 
+
+	Boolean values (true, false):
+
+		A boolean value is another data type like a string but only has two values. True or false. It also does not have quotes around it like a string does. They are good for helping functions figure out what to do with their inputs in the instructions along with the if statements.
